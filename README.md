@@ -1,27 +1,39 @@
-# About Me
+# ✨ A little about me ✨
 
-## Hi, I'm Isidore 👋
+## 👋 Hi there! I'm Isidore
 
-I'm a Font-End, Mobile developer and design. I'm currently learning and building projects every week to improve my skills.
+I'm a **Front-End & Mobile Developer**, **Designer**, **Tech Enthusiast**, and unapologetic **Otaku**.  
+I love creating beautiful, functional digital experiences—and I'm currently on a mission to **learn and build projects every week** to sharpen my skills.
 
-### 💼 Skills
-- Web design
-- App design
-- HTML / CSS / JavaScript
-- UX / UI
+---
 
-### 📂 Projects
-- Apple website parody
-- Collaboration solutions plateform
-- Bakery Website
-- Web Tree Solutions
-- [More coming soon!]
+## 🚀 Skills & Toolkit
+- 🎨 Web Design & Development
+- 📱 App Design & Development
+- 💻 HTML / CSS / JavaScript
+- 🧭 UX / UI Design
 
-### 🎮 Hobbies
-- Video games
-- Digital art
-- Exploring new design tools
+---
 
-### 📫 Contact
-- GitHub: https://github.com/Isidore-M
-- Email: eezymongo@icloud.com
+## 📂 Featured Projects
+- 🌐 **My Portfolio**
+- 🍏 *Apple Website Parody*
+- 🤝 *Collaboration Solutions Platform*
+- 🧁 *Bakery Website*
+- 🌳 *Web Tree Solutions*
+- ⏳ *More coming soon!*
+
+---
+
+## 🎯 Interests & Passions
+- 🎮 Video Games
+- 🖌️ Digital Art
+- 📺 Anime
+- 🛠️ Exploring Tech Tools
+- 🍏  Fan Boy
+
+---
+
+## 📫 Let's Connect!
+- 💻 **GitHub**: [Isidore-M](https://github.com/Isidore-M)
+- ✉️ **Email**: eezymongo@icloud.com
