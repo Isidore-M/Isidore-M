@@ -1,4 +1,4 @@
-# ~~~ A ~~~ L I T T L E ~~~ A B O U T ~~~ M E ~~~
+# ✨🌟✨ A  L I T T L E   A B O U T   M E ✨🌟✨
 
 ## 👋 Hi there! I'm Isidore
 
