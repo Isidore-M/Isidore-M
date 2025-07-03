@@ -1,4 +1,4 @@
-# ✨🌟✨ A  L I T T L E   A B O U T   M E ✨🌟✨
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&pause=1000&color=A6F73F&width=435&lines=Imagine+Create+ Datebayo" alt="Typing SVG" /></a>
 
 ## 👋 Hi there! I'm Isidore
 
