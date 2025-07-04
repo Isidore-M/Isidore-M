@@ -13,6 +13,7 @@ I love creating beautiful, functional digital experiences—and I'm currently on
 - 📱 App Design & Development
 - 💻 HTML / CSS / JavaScript
 - 🧭 UX / UI Design
+- Illustration
 
 ---
 
