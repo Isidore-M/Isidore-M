@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=D1E338&width=606&lines=Imagine.+Make+It+Real.+Datebayo+.+🎨)](https://git.io/typing-svg)
-![Background](https://img.flytrippers.com/wp-content/uploads/2024/03/29134654/different-regions-africa.jpg)
+
+
+__________
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHNzcjN4eTN6N3UzdjQ5ZHBqeXQ4MWF2eWc5M2lobG9tOXduM3ZxYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/6ClI61nEYQ8Lu/giphy.gif)
 
 ## 👋 Hi there! I'm Isidore
 
