@@ -2,7 +2,7 @@
 
 
 __________
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHNzcjN4eTN6N3UzdjQ5ZHBqeXQ4MWF2eWc5M2lobG9tOXduM3ZxYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/6ClI61nEYQ8Lu/giphy.gif) ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NuMjllcnd0bWhnaDRlOWRjdGEzM3MwenZweW10OHpjbW56cm95OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fNZzlhetWttyU/giphy.gif)
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHNzcjN4eTN6N3UzdjQ5ZHBqeXQ4MWF2eWc5M2lobG9tOXduM3ZxYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/6ClI61nEYQ8Lu/giphy.gif) ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NuMjllcnd0bWhnaDRlOWRjdGEzM3MwenZweW10OHpjbW56cm95OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gF1dTaO23Yedi/giphy.gif)
 
 ## 👋 Hi there! I'm Isidore
 
